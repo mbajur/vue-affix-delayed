@@ -34,6 +34,7 @@
 
 <script>
 import Affix from './components/Affix'
+// import Affix from 'vue-affix/src/affix'
 
 export default {
   name: 'app',
